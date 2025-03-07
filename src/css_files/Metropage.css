@@ -115,7 +115,7 @@ body {
 
 @media (max-width: 480px) {
   .hero-section figure {
-    height:65vh;
+    height:60vh;
   }
 
   .hero-content {
